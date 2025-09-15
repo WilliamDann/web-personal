@@ -47,3 +47,7 @@ a:visited {
 .indent {
 		padding-left: 24px
 }
+
+th, tr {
+		padding: 3px;
+}
