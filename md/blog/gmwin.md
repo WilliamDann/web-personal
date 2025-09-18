@@ -201,7 +201,7 @@ White has forced my knight to sit on the edge (remember about mobilizing the pei
 19. Bxd6 ? g5 !
 ```
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2F2p1n1pp%2Fp1pb1p2%2F3p4%2F2PPp3%2F1PN1PN2%2FPB3PPP%2FR2QK2R+w+KQkq+-+0+10&color=black&lastMove=e5e4&variant=standard&theme=wood4&piece=cburnett" alt="bell curve of FIDE ratings" width="300" style="background-color: #fff"/>
+<img src="https://lichess1.org/export/fen.gif?fen=r1n2rk1%2F3b4%2Fp1pB1p2%2Fq2p2pp%2FN2PPQ2%2F1P3P2%2FP5PP%2FR4RK1+w+-+-+0+20&color=black&lastMove=g7g5&variant=standard&theme=wood4&piece=cburnett" alt="bell curve of FIDE ratings" width="300" style="background-color: #fff"/>
 
 This is a Remove the Defender tactic, like we mentioned above. The queen is the only defender of the bishop, and the g5 pawn is removing it as a defender. The queen can retreat to g3 and keep defending the bishop, but the h pawn I pushed earlier can march to h4, fully removing the queen from defense of the bishop. If you're struggling with this, play it out on a real board. You cannot save the bishop in any line!
 
