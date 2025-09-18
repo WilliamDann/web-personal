@@ -11,6 +11,7 @@ I'm a pretty simple guy - I write code, I read books, I play chess.
 | Reading     | I am reading the following:                    | [Blue Mars, Kim Stanley Robinson](https://en.wikipedia.org/wiki/Mars_trilogy)
 | &nbsp;      | &nbsp;                                         | [Mastering Opening Strategy, Johan Hellsten](https://forwardchess.com/product/mastering-opening-strategy)
 | &nbsp;      | &nbsp;                                         | [Bobby Fischer and His World](https://www.newinchess.com/bobby-fischer-and-his-world)
+| &nbsp;      | &nbsp;                                         | [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 
 ## ## Activity
 - Sept 15: [A Win Against a Grandmaster](blog/gmwin.html) (Chess)
