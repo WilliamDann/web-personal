@@ -3,8 +3,7 @@
 		padding: 0px;
 		margin: 0px;
 		
-		font-size: 1wv;
-		font-weight: normal;
+	font-size: 1vw;
 }
 
 body {
@@ -17,7 +16,7 @@ body {
 }
 
 main {
-		width: 95%;
+		width: 90%;
 		margin: auto;
 		text-align: left;
 		background-color: #292524;
@@ -26,15 +25,23 @@ main {
 }
 
 h1 {
-		color: #d8b4fe;
+font-size: 2vw;
+color: #d8b4fe;
+padding-bottom: 10px;
 }
 
 h2 {
+  padding-top: 7px;
 		color: #e9d5ff;
 }
 
 h3 {
+	padding-top: 7px;
 		color: #e9d5ff;
+}
+
+h4, h5 {
+	padding-top: 7px;
 }
 
 a {
@@ -48,6 +55,24 @@ a:visited {
 		padding-left: 24px
 }
 
-th, tr {
+th, tr, td {
 		padding: 3px;
+}
+
+ol {
+	padding: 5px;
+}
+
+ol, li, ul {
+ padding-left: 2vw;
+}
+
+hr {
+	margin: 15px;
+	border: 1px solid #d8b4fe;
+}
+
+img {
+	background-color: #fff;
+	margin: 15px
 }

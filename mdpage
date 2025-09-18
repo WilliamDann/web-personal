@@ -1,0 +1,3 @@
+cd tools/md-page/
+python3 mdpage.py --input ../../md --output ../../html
+cd ../../
